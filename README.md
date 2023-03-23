@@ -6,7 +6,7 @@ This dataset contains object detection annotations and quality metadata of histo
 
 The repository does not contain content, but provides links to content on the content provider's website, and scripts to extract and select keyframes in a reproducible way.
 
-The set of keyframes is describes in ``keyframe_metadata.csv''. The columns in this file have the following semantics:
+The set of keyframes is describes in ```keyframe_metadata.csv```. The columns in this file have the following semantics:
 
 | Column | Description |
 | ----------- | ----------- |

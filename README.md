@@ -1,7 +1,39 @@
 # OEWF_ObjectDetection
-Object Detection Annotations on ÖWF Content
 
-# Acknowledgement
+This dataset contains object detection annotations and quality metadata of historic film with scientific and educational content. The content is from the collection ["Österreichische Bundesinstitut für den Wissenschaftlichen Film (ÖWF)"](https://www.mediathek.at/wissenschaft-als-film/die-sammlung-des-oewf/) of the [Austrian Mediathek](https://www.mediathek.at).
+
+## Organisation of the dataset
+
+The repository does not contain content, but provides links to content on the content provider's website, and scripts to extract and select keyframes in a reproducible way.
+
+The set of keyframes is describes in ``keyframe_metadata.csv''. The columns in this file have the following semantics:
+
+| Column | Description |
+| ----------- | ----------- |
+| video | ID of the video. |
+| url | Video download URL. |
+| frame | Frame number in the video. | 
+| color | Color or black/white. |
+| framerate | Frame rate of the video. |
+| descr_timeunit | Description time unit (typically the same as the frame rate). |
+| width | Frame width in pixels. |
+| height | Frame height in pixels. |
+| aspect_ratio | Frame aspect ratio. |
+| activity | Visual activity measurement. |
+| luminance_range | Luminance range measurement. |
+| blurriness | Bluriness measurement. |
+| noise | Image noise/grain measurement. |
+
+
+
+## License
+
+The code in this repository is provided under MIT License. Note that for the content, the source license applies.
+
+
+
+
+## Acknowledgement
 
 <img src="img/Tailored_Media_Logo_Final.png" width="200"><img src="img/logo_ai4media-01.png" width="200">
 

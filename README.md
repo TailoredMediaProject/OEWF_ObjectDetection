@@ -24,6 +24,9 @@ The set of keyframes is describes in ```keyframe_metadata.csv```. The columns in
 | blurriness | Bluriness measurement. |
 | noise | Image noise/grain measurement. |
 
+For each keyframe, the corresponding video is downloaded and the keyframe is extracted using the Python program keyframe_loader.py. The keyframe files are then saved in the subdirectory "keyframes".
+
+The object region annotation data is stored in COCO 1.0 format in the annotation.json file.
 
 
 ## License

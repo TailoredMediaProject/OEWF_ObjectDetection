@@ -1,0 +1,4 @@
+opencv-python
+urlib3
+webdriver-manager
+requests

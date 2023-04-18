@@ -1,4 +1,4 @@
-# OEWF_ObjectDetection
+# ÖWF-OD - ÖWF Object Detection Dataset
 
 This dataset contains object detection annotations and quality metadata of historic film with scientific and educational content. The content is from the collection ["Österreichische Bundesinstitut für den Wissenschaftlichen Film (ÖWF)"](https://www.mediathek.at/wissenschaft-als-film/die-sammlung-des-oewf/) of the [Austrian Mediathek](https://www.mediathek.at).
 

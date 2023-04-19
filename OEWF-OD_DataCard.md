@@ -1,4 +1,4 @@
-# ÖWF Object Detection Dataset (ÖMF-OD)
+# ÖWF Object Detection Dataset (ÖWF-OD)
 ÖWF-OD is a dataset for object detection in archival film content. The dataset enables
 the evaluation of detection methods for image data with very different image qualities.
 1,000 selected keyframes from 100 hours of video material have been annotated. 

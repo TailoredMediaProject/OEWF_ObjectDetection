@@ -668,7 +668,7 @@ considerations.
 
 (Usage Note: Duplicate and complete
 the following for each task type.) -->
-**(Task Type)**
+
 
 **Task description:** Review, correct and add object bounding boxes and related class labels.
 
@@ -685,9 +685,8 @@ relevant information or considerations.
 
 (Usage Note: Duplicate and complete the
 following for each annotation type.) -->
-**(Annotation Type)**
 
-**Number of unique annotators:** 3
+**Number of unique annotators:** 3 persons (male, European)
 
 **Expertise of annotators:** Computer vision experts
 

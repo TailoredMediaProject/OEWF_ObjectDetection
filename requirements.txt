@@ -1,4 +1,4 @@
 opencv-python
-urlib3
+urllib3
 webdriver-manager
 requests
